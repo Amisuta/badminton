@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "testing one to tree"
-author: aksakalli
+title:  "Let's Begin"
+author: Amisuta
 ---
-lalalala [wassupdguo](https://danielguo.dev).
+This site is nowhere near functional, but it's a start. Thank you, [Daniel](https://danielguo.dev), for the inspiration.
 
-Your contribution is welcome!
